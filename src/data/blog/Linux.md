@@ -7,7 +7,8 @@ slug: predefined-color-schemes
 featured: false
 draft: false
 tags:
-  - linux     
+  - linux
+description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
 ---
 
 # Linux

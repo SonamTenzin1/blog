@@ -1,3 +1,15 @@
+---
+author: Sat Naing
+pubDatetime: 2022-09-26T12:13:24Z
+modDatetime: 2024-01-04T09:09:06Z
+title: Linux 
+slug: predefined-color-schemes
+featured: false
+draft: false
+tags:
+  - linux
+description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
+
 # Linux Distributions
 
 Linux distributions (distros) are operating systems based on the Linux kernel, ranging from servers to mobile devices. Think of them as different versions of Linux, each customized for specific needs while sharing core components and philosophy. Popular examples include:

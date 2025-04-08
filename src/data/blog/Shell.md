@@ -1,3 +1,15 @@
+---
+author: Sat Naing
+pubDatetime: 2022-09-26T12:13:24Z
+modDatetime: 2024-01-04T09:09:06Z
+title: Linux 
+slug: predefined-color-schemes
+featured: false
+draft: false
+tags:
+  - linux
+description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
+
 # Shell
 
 A Linux terminal (shell or command line) is a text-based interface between users and the system kernel. Commands entered here control the system. Think of the shell as a powerful text-based GUI for navigating directories, managing files, and accessing system information.
