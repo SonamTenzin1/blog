@@ -1,14 +1,14 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
-title: Linux 
-slug: predefined-color-schemes
+author: Simon Smale
+pubDatetime: 2024-01-03T20:40:08Z
+modDatetime: 2024-01-08T18:59:05Z
+title: Linux Distro
 featured: false
 draft: false
 tags:
-  - linux
-description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
+  - Linux
+description: Linux distributions (distros) are operating systems based on the Linux kernel, ranging from servers to mobile devices. Think of them as different versions of Linux, each customized for specific needs while sharing core components and philosophy.
+---
 
 # Linux Distributions
 
@@ -37,4 +37,4 @@ Debian is a stable, reliable Linux distribution for desktop, server, and embedde
 
 While Debian has a steeper learning curve, it offers extensive customization and system control. This complexity is balanced by the powerful capabilities it provides, though mastering its tools requires dedication.
 
-Debian's key strength is stability, with long-term support lasting up to five years. Despite occasional vulnerabilities, its strong security focus and quick patch releases maintain its reputation. The distribution combines versatile functionality with robust security features. It is a reliable Linux distribution that is widely used for a range of purposes. Its stability, reliability, and commitment to security make it an attractive choice for various use cases, including cybersecurity.
+Debian's key strength is stability, with long-term support lasting up to five years. Despite occasional vulnerabilities, its strong security focus and quick patch releases maintain its reputation. The distribution combines versatile functionality with robust security features. It is a reliable Linux distribution that is widely used for a range of purposes. Its stability, reliability, and commitment to security make it an attractive choice for various use cases, including cybersecurity. 

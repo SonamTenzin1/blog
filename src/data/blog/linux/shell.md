@@ -1,14 +1,14 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
-title: Linux 
-slug: predefined-color-schemes
+author: Simon Smale
+pubDatetime: 2024-01-03T20:40:08Z
+modDatetime: 2024-01-08T18:59:05Z
+title: Shell
 featured: false
 draft: false
 tags:
   - linux
-description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
+description: The shell is a command line interface between the operating system and the user. It allows users to interact with the system, execute commands, and automate tasks. The shell is a powerful tool for managing files, directories, and system processes.
+---
 
 # Shell
 

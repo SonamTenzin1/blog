@@ -1,13 +1,12 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
-title: Linux 
-slug: predefined-color-schemes
+author: Simon Smale
+pubDatetime: 2024-01-03T20:40:08Z
+modDatetime: 2024-01-08T18:59:05Z
+title: Linux OS
 featured: false
 draft: false
 tags:
-  - linux
+  - Linux
 description: Linux is an OS. It is a key tool in cybersecurity, known for being robust, flexible, and open-source. As an operating system, it manages computer hardware and enables software-hardware communication. Linux comes in different versions called distros.
 ---
 
@@ -74,6 +73,6 @@ Linux follows the Filesystem Hierarchy Standard (FHS), organizing files in a tre
 /usr - Programs and libraries
 /var - Variable data files
 
-[Linux Distributions](Linux%20Distributions%201bd74ef1185580b0be2cedbad508b8ce.md)
+[Linux Distributions](LinuxDistributions.md)
 
-[Shell](Shell%201c274ef118558053a1b2f3cbe15d24d3.md)
+[Shell](Shell.md)
