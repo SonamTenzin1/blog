@@ -72,7 +72,3 @@ Linux follows the Filesystem Hierarchy Standard (FHS), organizing files in a tre
 /tmp - Temporary files
 /usr - Programs and libraries
 /var - Variable data files
-
-[Linux Distributions](LinuxDistributions.md)
-
-[Shell](Shell.md)
